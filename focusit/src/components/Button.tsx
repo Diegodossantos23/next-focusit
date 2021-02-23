@@ -1,8 +1,12 @@
-export const Button = () => {
+interface ButtonProps {
+    color: string;
+}
+
+export const Button = (props: ButtonProps) => {
     return (
-        <div>
+        <button type="button" >
             Testing
-        </div>
+        </button>
     )
 }
 

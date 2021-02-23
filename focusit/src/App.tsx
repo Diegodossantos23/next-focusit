@@ -5,7 +5,9 @@ const App = () => {
   return (
     <div>
      <h1>Hello Focusit</h1>
-     <Button/>
+     <Button color="blue"/>
+     <Button color="purple"/>
+     <Button color="grey"/>
     </div>
   );
 }
