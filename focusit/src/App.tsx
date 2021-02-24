@@ -1,11 +1,12 @@
 import React from 'react';
+import { ExperienceBar } from './components/ExperiencieBar';
 import './styles/global.css'
 
 const App = () => {
   return (
-    <div>
-     <h1>Hello Focusit</h1>
-     
+    <div className="container">
+     <ExperienceBar/>
+
      
     </div>
   );
