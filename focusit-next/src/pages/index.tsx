@@ -4,6 +4,7 @@ import { CompletedChallenges } from '../components/CompletedChallenges'
 
 
 import styles from '../styles/pages/Home.module.css'
+import { CountDown } from '../components/CountDown'
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
         <div>
           <Profile/>
           <CompletedChallenges/>
+          <CountDown/>
         </div>
         <div>
 
