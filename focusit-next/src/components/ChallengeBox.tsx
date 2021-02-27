@@ -3,7 +3,7 @@ import { ChallengesContext } from '../contexts/ChallengeContext'
 import styles from '../styles/components/ChallengeBox.module.css'
 
 export const ChallengeBox = () => {
-    const {activeChallenge} = useContext(ChallengesContext);
+    const {activeChallenge, resetChallenge} = useContext(ChallengesContext);
 
     return( 
         <div className={styles.challengeBoxContainer}>
@@ -21,6 +21,7 @@ export const ChallengeBox = () => {
                         <button 
                             type="button"
                             className={styles.challengeFailedButton}
+                            onClick={resetChallenge}
                             >
                                 Failed
                         </button>
