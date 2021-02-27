@@ -6,7 +6,7 @@ export const ChallengeBox = () => {
     return( 
         <div className={styles.challengeBoxContainer}>
             {hasActiveChallenge ? (
-                <div> className={styles.challengeActive}
+                <div className={styles.challengeActive}>
                     <header>Get 400xp</header>
 
                     <main>
