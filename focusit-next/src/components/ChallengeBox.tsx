@@ -16,8 +16,19 @@ export const ChallengeBox = () => {
                     </main>
 
                     <footer>
-                        <button>Failed</button>
-                        <button>Completed</button>
+                        <button 
+                            type="button"
+                            className={styles.challengeFailButton}
+                            >
+                                Failed
+                        </button>
+                        
+                        <button 
+                            type="button"
+                            className={styles.challengeSucceededButton}
+                            >
+                                Completed
+                        </button>
                     </footer>
                 </div>
             ) : (
