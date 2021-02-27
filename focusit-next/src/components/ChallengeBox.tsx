@@ -18,7 +18,7 @@ export const ChallengeBox = () => {
                     <footer>
                         <button 
                             type="button"
-                            className={styles.challengeFailButton}
+                            className={styles.challengeFailedButton}
                             >
                                 Failed
                         </button>
