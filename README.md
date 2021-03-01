@@ -37,13 +37,6 @@ A **NLW** é um evento online de uma semana, disponibilizado pela **RocketSeat**
 - Níveis de experiência.
 - Desafios personalizados.
 
-<!-- gifs -->
-<p align="center">
-  <img alt="WebDemonstration" title="WebDemonstration" src="./github/webdemonstration.gif">
-</p>
-
----
-
 ## 🔨 Tecnologias
 
 Estas são as principais tecnologias utilizadas na construção do projeto:
