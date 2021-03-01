@@ -10,7 +10,7 @@
 <!-- badges -->
 <p align="center">
   <img src="https://img.shields.io/github/languages/count/hbalardin/nlw-04-moveit?color=4953B8">
-  <img src="https://img.shields.io/github/repo-size/hbalardin/nlw-04-moveit?color=4CD62A"/>
+  <img src="https://github.com/Diegodossantos23/react-focusit"/>
   <a href="https://www.linkedin.com/in/diego-dos-santos-rosa-b9180b176/">
     <img src="https://img.shields.io/badge/made%20by-Henrique%20Balardin-4953B8">
   </a>
