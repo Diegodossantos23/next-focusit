@@ -2,7 +2,7 @@ import React from "react";
 import { GetServerSideProps } from 'next';
 
 import { CountdownProvider } from "../contexts/CountdownContext";
-import { ChallengesProvider } from "../contexts/ChallengesContext";
+import { ChallengesProvider } from "../contexts/ChallengeContext";
 
 import Head from 'next/head';
 
@@ -29,7 +29,7 @@ interface HomeProps {
     >
       <div className={styles.container}>
         <Head>
-          <title>Início | move.it</title>
+          <title>Início | focus.it</title>
         </Head>
 
         <ExperienceBar />
@@ -51,8 +51,6 @@ interface HomeProps {
   )
 }
 
-export default Home;
-
 export const getServerSideProps: GetServerSideProps = async (ctx) => {
   const { level, currentExperience, challengesCompleted } = ctx.req.cookies;
 
@@ -64,3 +62,5 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
     }
   }
 }
+
+export default Home;
