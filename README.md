@@ -23,7 +23,7 @@
 
 ## 📄 Sobre
 
-O objetivo do **MoveIt** é cuidar da saúde daqueles que passam grande parte do seu dia na frente do computador, através de mini desafios como alongamentos ou uma saída para caminhar.
+O objetivo do **Focusit** é cuidar da saúde daqueles que passam grande parte do seu dia na frente do computador, através de mini desafios como alongamentos ou uma saída para caminhar.
 
 Este projeto foi desenvolvido durante a quarta edição da **NLW (Next Level Week)**. 
 
@@ -53,16 +53,16 @@ Antes de qualquer coisa, você precisa ter  o [Git](https://git-scm.com), o [Yar
 
 ```bash
 # Clone este repositório:
-$ git clone https://github.com/hbalardin/nlw-04-moveit
+$ git clone https://github.com/Diegodossantos23/next-focusit
 
 # Acesse à pasta do projeto:
-cd nlw-04-moveit
+cd focusit-next
 
 # Instale as depêndencias:
-yarn
+npm i
 
 # Execute a aplicação em modo de desenvolvimento:
-yarn dev
+npm run dev
 ```
 
 Caso a página não abrir automaticamente, acesse: http://localhost:3000
