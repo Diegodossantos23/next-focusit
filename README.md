@@ -1,22 +1,13 @@
 <!-- banner -->
 <h1 align="center">
-  <img alt="Logo MoveIt" title="Logo MoveIt" src="./github/logo.png">
+  Focusit
 </h1
 ---
 
 <!-- status -->
 <p align="center"><b>Status: Concluído ✅</b></p>
 
-<!-- badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/languages/count/hbalardin/nlw-04-moveit?color=4953B8">
-  <img src="https://github.com/Diegodossantos23/react-focusit"/>
-  <a href="https://www.linkedin.com/in/diego-dos-santos-rosa-b9180b176/">
-    <img src="https://img.shields.io/badge/made%20by-Henrique%20Balardin-4953B8">
-  </a>
-  <img src="https://img.shields.io/github/last-commit/hbalardin/nlw-04-moveit?color=4CD62A"/>
-  <img alt="GitHub license" src="https://img.shields.io/github/license/hbalardin/nlw-04-moveit?color=4953B8">
-</p>
+
 
 ---
 
