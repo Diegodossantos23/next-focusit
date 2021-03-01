@@ -29,7 +29,7 @@ interface HomeProps {
     >
       <div className={styles.container}>
         <Head>
-          <title>Início | move.it</title>
+          <title>Início | focus.it</title>
         </Head>
 
         <ExperienceBar />
