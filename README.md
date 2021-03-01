@@ -1,6 +1,6 @@
 <!-- banner -->
 <h1 align="center">
-  Focusit
+  Focus.it
 </h1
 ---
 
