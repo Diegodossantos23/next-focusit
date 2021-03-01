@@ -39,7 +39,7 @@ A **NLW** é um evento online de uma semana, disponibilizado pela **RocketSeat**
 
 <p align="center">
   
-  O projeto esta no ar, [acesse-o](https://next-focusit.vercel.app/)
+  Link do [projeto](https://next-focusit.vercel.app/).
   
   </p>
 
