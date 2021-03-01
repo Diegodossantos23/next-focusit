@@ -17,8 +17,6 @@
   <a href="#-funcionalidades">Funcionalidades</a> •
   <a href="#-tecnologias">Tecnologias</a> •
   <a href="#-executando-o-projeto">Executando o projeto</a> •
-  <a href="#-licença">Licença</a> •
-  <a href="#-versões-do-readme">Versões do README</a>
 </p>
 
 ---
