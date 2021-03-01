@@ -36,7 +36,7 @@ export const Countdown  = () => {
                   disabled
                   className={`${styles.countDownButton}`}   
                   >
-                      Finished cycle
+                       Ciclo encerrado
               </button>
             ) : (
                 <>
@@ -46,7 +46,7 @@ export const Countdown  = () => {
                         className={`${styles.countDownButton} ${styles.countDownButtonActive}`}
                         onClick={resetCountdown}
                         >
-                            Stop cycle  
+                            Abandonar ciclo 
                     </button>
                 ) : (
                     <button 

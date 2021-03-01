@@ -6,7 +6,10 @@ export const CompletedChallenges = () => {
     const {challengesCompleted} = useContext(ChallengesContext);
     
     return(
-        <div className={styles.completedChallengesContainer}>
+        <div 
+            className={styles.completedChallengesContainer}
+            >
+                
             <span>Completed Challenges</span>
             <span>{challengesCompleted}</span>
         </div>

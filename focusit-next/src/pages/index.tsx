@@ -20,7 +20,7 @@ interface HomeProps {
   challengesCompleted: number; 
 }
 
-export default function Home(props: HomeProps) {
+ const Home = (props: HomeProps) => {
   return (
     <ChallengesProvider
       level={props.level}
@@ -29,7 +29,7 @@ export default function Home(props: HomeProps) {
     >
       <div className={styles.container}>
         <Head>
-          <title>Início | move.it</title>
+          <title>Início | focus.it</title>
         </Head>
 
         <ExperienceBar />
@@ -62,3 +62,5 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
     }
   }
 }
+
+export default Home;
