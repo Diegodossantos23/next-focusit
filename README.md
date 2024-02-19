@@ -35,7 +35,7 @@ O objetivo do **Focusit** é cuidar da saúde daqueles que passam grande parte d
 
 <p align="center">
   
-  Link do [projeto](https://next-focusit.vercel.app/).
+  ## Preview
   
   </p>
 
