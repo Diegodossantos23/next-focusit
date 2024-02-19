@@ -4,13 +4,6 @@
 </h1
 ---
 
-<!-- status -->
-<p align="center"><b>Status: Concluído ✅</b></p>
-
-
-
----
-
 <!-- index -->
 <p align="center">
   <a href="#-sobre">Sobre</a> •
