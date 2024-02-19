@@ -25,10 +25,6 @@
 
 O objetivo do **Focusit** é cuidar da saúde daqueles que passam grande parte do seu dia na frente do computador, através de mini desafios como alongamentos ou uma saída para caminhar.
 
-Este projeto foi desenvolvido durante a quarta edição da **NLW (Next Level Week)**. 
-
-A **NLW** é um evento online de uma semana, disponibilizado pela **RocketSeat**, focado em por a mão na massa. O conteúdo fica disponível apenas durante o evento.
-
 ---
 
 ## 🔝 Funcionalidades
