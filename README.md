@@ -55,7 +55,7 @@ Estas são as principais tecnologias utilizadas na construção do projeto:
 
 ---
 
-## 🚀 Executando o projeto
+## Executando o projeto
 
 Antes de qualquer coisa, você precisa ter  o [Git](https://git-scm.com), o [npm](https://www.npmjs.com/) e o [Node.js](https://nodejs.org/en/) instalado na sua máquina. Feito isso, você pode prosseguir.
 
@@ -78,5 +78,5 @@ Caso a página não abrir automaticamente, acesse: http://localhost:3000
 ---
 
 
-## 🚀 Entre em contato!
+## Entre em contato!
 Desenvolvido por [Diego dos Santos](https://www.linkedin.com/feed/).
